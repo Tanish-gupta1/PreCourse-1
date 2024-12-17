@@ -1,7 +1,7 @@
 // Time Complexity : Need to refresh all the understanding for this.
 // Space Complexity : Need to refresh all the understanding for this.
 // Did this code successfully run on Leetcode : Didn't find the question over leetcode.
-// Any problem you faced while coding this : No problem but trouble understanding time and space complexity.
+// Any problem you faced while coding this : No problem but trouble in understanding time and space complexity.
 class Stack {
     //Please read sample.java file before starting.
   //Kindly include Time and Space complexity at top of each file
